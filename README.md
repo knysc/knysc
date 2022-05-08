@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @knysc
+- 👀 I’m interested in consumer tech, hiking, traveling, aviation
+- 🌱 I’m currently learning Javascript and comp sci fundamentals
+- 💞️ I’m looking to collaborate on web application projects to aid my learning and enter the software development field
+- 📫 How to reach me: Twitter: @2changzgg | LinkedIn: https://www.linkedin.com/in/knychang/
